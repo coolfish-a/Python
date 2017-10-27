@@ -12,6 +12,7 @@ if __name__ == "__main__":
         "database": "master",
         "dfw": "dsfwee",
         "uid": "sa",
-        "pwd": "secret"
+        "pwd": "secret",
+        "name":"hmq"
     }
     print buildConnectionString(myParams)
