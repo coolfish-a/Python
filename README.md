@@ -39,3 +39,4 @@ In the scripts the comments etc are lined up correctly when they are viewed in [
 - `serial_scanner.py` contains a method called ListAvailablePorts which returns a list with the names of the serial ports that are in use in our computer, this method works only on Linux and Windows (can be extended for mac osx). If no port is found, an empty list is returned.
 
 - `test.py` Build a connection string from a dictionary of parameters.Returns string.  
+- `ch1.py` matplotlib test 
