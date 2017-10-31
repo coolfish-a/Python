@@ -40,4 +40,4 @@ In the scripts the comments etc are lined up correctly when they are viewed in [
 
 - `test.py` Build a connection string from a dictionary of parameters.Returns string.  
 - `ch1.py` matplotlib test 
-- add test 
+- add test 哈哈
